@@ -21,9 +21,10 @@ Some of the examples need the `Plots` package, then for an interactive experianc
 
 `pkg> add Plots`
 
-Finally, to run the notebooks type into the julia termina
+Finally, to run the notebooks type into the julia terminal
 
 `julia> import Pluto`
+
 `julia> Pluto.run()`
 
 and your web browser will display some menu like this
